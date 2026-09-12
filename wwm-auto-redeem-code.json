@@ -1,9 +1,9 @@
 {
   "app_name": "Where Winds Meet - Auto Redeem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "min_version_required": "1.0.0",
-  "changelog": "• Ra mắt phiên bản chính thức Where Winds Meet - Auto Redeem.\n• Tích hợp sẵn 149 giftcode mới nhất (30 mã sự kiện + 119 mã quà tặng độc quyền).\n• Tự động mở popup và nhập liên tục với độ tin cậy 100%.\n• Hỗ trợ đa màn hình, phím F12 dừng khẩn cấp tức thời (<0.01s).\n• Tự động cập nhật phần mềm từ xa qua version-public.",
-  "download_url": "https://github.com/timothy-pham/version-public/releases/download/v1.0.0/WWM_CodeMaster.exe",
-  "codes_version": "1.0.0",
-  "codes_url": "https://raw.githubusercontent.com/timothy-pham/wwm-auto-redeem-code/main/codes.txt"
+  "changelog": "• Bổ sung tính năng tự động kiểm tra và cập nhật phiên bản mới từ xa qua version-public.\n• Hỗ trợ tự động cập nhật danh sách giftcode mới nhất từ file wwm_codes.txt.\n• Thêm nút xem Video Hướng Dẫn chi tiết trực tiếp trên thanh công cụ.\n• Cập nhật chữ ký tác giả và hiển thị số phiên bản ứng dụng v1.0.1.\n• Khắc phục hoàn toàn cảnh báo nhận diện màn hình và tối ưu hiệu suất chạy ngầm.",
+  "download_url": "https://github.com/timothy-pham/version-public/releases/download/v1.0.1/WWM_CodeMaster_v1.0.1.exe",
+  "codes_version": "1.0.1",
+  "codes_url": "https://raw.githubusercontent.com/timothy-pham/wwm-auto-redeem-code/main/wwm_codes.txt"
 }
