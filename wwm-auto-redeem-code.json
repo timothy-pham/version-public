@@ -2,8 +2,8 @@
   "app_name": "Where Winds Meet - Auto Redeem",
   "version": "1.0.1",
   "min_version_required": "1.0.0",
-  "changelog": "• Bổ sung tính năng tự động kiểm tra và cập nhật phiên bản mới từ xa qua version-public.\n• Hỗ trợ tự động cập nhật danh sách giftcode mới nhất từ file wwm_codes.txt.\n• Thêm nút xem Video Hướng Dẫn chi tiết trực tiếp trên thanh công cụ.\n• Cập nhật chữ ký tác giả và hiển thị số phiên bản ứng dụng v1.0.1.\n• Khắc phục hoàn toàn cảnh báo nhận diện màn hình và tối ưu hiệu suất chạy ngầm.",
+  "changelog": "• Bổ sung tính năng cập nhật từ xa qua version-public (tự động nhận diện bản mới).\n• Cập nhật danh sách giftcode tự động từ wwm_codes.txt trên version-public.\n• Thêm nút xem Video Hướng Dẫn chi tiết trên thanh công cụ.\n• Chuẩn hoá chữ ký Author và giao diện tối ưu đa màn hình.\n• Sửa lỗi HTTP 404 khi tải giftcode mới.",
   "download_url": "https://github.com/timothy-pham/version-public/releases/download/v1.0.1/WWM_CodeMaster_v1.0.1.exe",
   "codes_version": "1.0.1",
-  "codes_url": "https://raw.githubusercontent.com/timothy-pham/wwm-auto-redeem-code/main/wwm_codes.txt"
+  "codes_url": "https://raw.githubusercontent.com/timothy-pham/version-public/main/wwm_codes.txt"
 }
