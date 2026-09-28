@@ -1,9 +1,9 @@
 {
-  "app_name": "Where Winds Meet - Auto Redeem",
+  "app_name": "CodeMaster",
   "version": "1.0.1",
   "min_version_required": "1.0.0",
-  "changelog": "• Bổ sung tính năng cập nhật từ xa qua version-public (tự động nhận diện bản mới).\n• Cập nhật danh sách giftcode tự động từ wwm_codes.txt trên version-public.\n• Thêm nút xem Video Hướng Dẫn chi tiết trên thanh công cụ.\n• Chuẩn hoá chữ ký Author và giao diện tối ưu đa màn hình.\n• Sửa lỗi HTTP 404 khi tải giftcode mới.",
-  "download_url": "https://github.com/timothy-pham/version-public/releases/download/v1.0.1/WWM_CodeMaster_v1.0.1.exe",
+  "changelog": "• Hỗ trợ đa tựa game (Delta Force Web API, Where Winds Meet auto-click DirectX).\n• Tích hợp tính năng quản lý lịch sử nhập mã vĩnh viễn trên máy tính (%APPDATA%).\n• Thêm nút bật/tắt âm thanh (Mute/Unmute) tiện lợi ngay trên thanh Header.\n• Tối ưu độ trễ siêu tốc giữa các request xuống còn 0.2 giây.\n• Hệ thống cập nhật từ xa tự động nhận diện phiên bản mới qua version-public.",
+  "download_url": "https://github.com/timothy-pham/version-public/releases/download/v1.0.1/CodeMaster_v1.0.1.exe",
   "codes_version": "1.0.1",
   "codes_url": "https://raw.githubusercontent.com/timothy-pham/version-public/main/wwm_codes.txt"
 }
